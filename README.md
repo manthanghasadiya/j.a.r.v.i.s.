@@ -5,7 +5,7 @@ J.A.R.V.I.S. - Just A Rather Very Intelligent System [ Inspired from Iron man ]
 
 <h2> Features </h2>
 
-- Welcomw speech
+- Welcome speech
 
 - Search Wikipedia
 
